@@ -13,3 +13,6 @@ Hello! I'm a System Engineering student with a strong passion for **Data Science
 - **Data Science Tools**: Pandas, NumPy, Scikit-Learn, TensorFlow, Keras, Matplotlib, Seaborn
 - **Game Development Tools**: Unity, Blender
 - **Other**: Git, SQL, Linux
+
+## Working on
+- ** currently working on video game in unity
