@@ -15,4 +15,4 @@ Hello! I'm a System Engineering student with a strong passion for **Data Science
 - **Other**: Git, SQL, Linux
 
 ## Working on
-- ** currently working on video game in unity
+- currently working on video game in unity
