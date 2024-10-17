@@ -16,3 +16,4 @@ Hello! I'm a System Engineering student with a strong passion for **Data Science
 
 ## Working on
 - currently working on video game in unity
+- I might be little less active cuz work + uni
