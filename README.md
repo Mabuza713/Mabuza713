@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile!
 
 ## About Me
-Hello! I'm a System Engineering student with a strong passion for **Data Science/Analysis** and **Game Development**. I thrive on solving complex problems and extracting meaningful insights from data.
+Hello! I'm a System Engineering student with a strong passion for **Game Development**. I thrive on solving complex problems and extracting meaningful insights from data.
 
 ## Interests
 - **Data Science/Analysis**: Transforming data into actionable insights, building predictive models, and visualizing data trends.
