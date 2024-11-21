@@ -10,7 +10,7 @@ Hello! I'm a System Engineering student with a strong passion for **Game Develop
 
 ## Skills
 - **Programming Languages**: Python, R, C#
-- **Data Science Tools**: Pandas, NumPy, Scikit-Learn, TensorFlow, Keras, Matplotlib, Seaborn
+- **Data Science Tools**: Pandas, NumPy, Matplotlib
 - **Game Development Tools**: Unity, Blender
 - **Other**: Git, SQL, Linux
 
