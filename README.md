@@ -12,5 +12,5 @@ Hello! I'm a System Engineering student with a strong passion for **Game Develop
 - **Other**: Git, SQL, Linux
 
 ## Working on
-- currently working on video game in unity (most of the private repo commits) <- on break untill february ig
+- currently working on video game in unity (most of the private repo commits)
 - I might be little less active cuz work + uni
