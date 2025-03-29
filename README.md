@@ -12,6 +12,6 @@ Hello! I'm a System Engineering student with a strong passion for **Game Develop
 - **Other**: Git, SQL, Linux
 
 ## Working on
-- currently working on video game in godot (most of the private repo commits) https://x.com/onemilionrats  for development updates
+- currently working on video game in godot (most of the private repo commits)
 - I might be little less active cuz work + uni
 - currenlty working on devops in nokia Wrocław
