@@ -14,7 +14,7 @@ Hello! I'm a System Engineering student with a strong passion for **Game Develop
 ## Working on
 - currently working on video game in godot (most of the private repo commits)
 - I might be little less active cuz work + uni
-- currenlty working on devops in nokia Wrocław
+- currenlty working as devops in nokia Wrocław
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/10c67049-0d9d-4e18-b2b5-61b6130941a4" width="350" title="hover text">
