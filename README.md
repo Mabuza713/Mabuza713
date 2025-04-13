@@ -7,8 +7,8 @@ Hello! I'm a System Engineering student with a strong passion for **Game Develop
 - **System Engineering**: Applying engineering principles to create efficient and reliable systems.
 
 ## Skills
-- **Programming Languages**: Python, R, C#
-- **Game Development Tools**: Unity, Blender
+- **Programming Languages**: Python, R, C#, gdscript
+- **Game Development Tools**: Unity, Blender, godot
 - **Other**: Git, SQL, Linux
 
 ## Working on
