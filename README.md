@@ -12,7 +12,7 @@ Hello! I'm a System Engineering student with a strong passion for **Game Develop
 - **Other**: Git, SQL, Linux
 
 ## Working on
-- currently working on video game in godot (most of the private repo commits) <- one week break due to exams
+- currently working on video game in godot (most of the private repo commits) <- one week break due to exams (might take longer than a week tbh)
 - I might be little less active cuz work + uni
 - currenlty working as devops in nokia Wrocław
 
